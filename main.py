@@ -16,3 +16,5 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 # This is a simple Python program to print "Hello, World!"
 print("Hello, World!")
+# This is a simple Python program to print "Hello, World!"
+print("NovaGranka!")
